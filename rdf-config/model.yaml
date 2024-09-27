@@ -1,30 +1,30 @@
-- []:
-  - a: orth:Protein
-  - trp:ID:
-    - ID: "TP0001"
-  - trp:type:
+- Protein tp:TP0001:
+  - a: tpo:Protein
+  - tpo:ID:
+    - id: "TP0001"
+  - tpo:type:
     - type: "OSC"
-  - trp:name:
+  - tpo:name:
     - name: "LAS1|LSS"
-  - trp:pathway:
+  - tpo:pathway:
     - pathway: "steroid"
-  - trp:skeleton:
+  - tpo:skeleton:
     - skeleton: ""
-  - trp:function:
+  - tpo:function:
     - function: "lanosterol synthase"
-  - trp:uniprot:
+  - tpo:uniprot:
     - uniprot: up:Q1G1A4
-  - trp:ncbiprotein:
+  - tpo:ncbiprotein:
     - ncbiprotein:
-  - trp:pubmed:
+  - tpo:pubmed:
     - pubmed: pubmed:16445886
-  - trp:note:
+  - tpo:note:
     - note: ""
-  - trp:species:
+  - tpo:species:
     - species: "Arabidopsis thaliana"
-  - trp:family:
+  - tpo:family:
     - family: "Brassicaceae"
-  - trp:order:
+  - tpo:order:
     - order: "Brassicales"
-  - trp:aa_sequence:
+  - tpo:aa_sequence:
     - aa_sequence: "MWRLKLSEGDEESVNQHVGRQFWEYDNQFGTSEERHHINHLRSNFTLNRFSSKHSSDLLYRFQCWKEKGKGMERLPQVKVKEGEERLINEEVVNVTLRRSLRFYSILQSQDGFWPGDYGGPLFLLPALVIGLYVTEVLDGTLTAQHQIEIRRYLYNHQNKDGGWGLHVEGNSTMFCTVLSYVALRLMGEELDGGDGAMESARSWIHHHGGATFIPSWGKFWLSVLGAYEWSGNNPLPPELWLLPYSLPFHPGRMWCHCRMVYLPMSYLYGRRFVCRTNGTILSLRRELYTIPYHHIDWDTARNQCAKEDLYYPHPKIQDVLWSCLNKFGEPLLERWPLNNLRNHALQTVMQHIHYEDQNSHYICIGPVNKVLNMLCCWVESSNSEAFKSHLSRIKDYLWVAEDGMKMQGYNGSQLWDVTLAVQAILATNLVDDYGLMLKKAHNYIKNTQIRKDTSGDPGLWYRHPCKGGWGFSTGDNPWPVSDCTAEALKAALLLSQMPVNLVGEPMPEEHLVDAVNFILSLQNKNGGFASYELTRSYPELEVINPSETFGDIIIDYQYVECTSAAIQGLVLFTTLNSSYKRKEIVGSINKAVEFIEKTQLPDGSWYGSWGVCFTYATWFGIKGMLASGKTYESSLCIRKACGFLLSKQLCCGGWGESYLSCQNKVYTNLPGNKSHIVNTSWALLALIEAGQASRDPMPLHRGAKSLINSQMEDGDYPQQEILGVFNRNCMISYSAYRNIFPIWALGEYRKLMLSL"
