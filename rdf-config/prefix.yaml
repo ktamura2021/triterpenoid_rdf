@@ -1,5 +1,5 @@
 rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-up: <http://purl.uniprot.org/uniprot/>
+uniprot: <http://purl.uniprot.org/uniprot/>
 ncbiprotein: <https://www.ncbi.nlm.nih.gov/protein/>
 pubmed: <https://pubmed.ncbi.nlm.nih.gov/>
 tpo: <https://ktamura2021.github.io/triterpene_rdf/ontology.ttl#>

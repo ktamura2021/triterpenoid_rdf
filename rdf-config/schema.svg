@@ -220,7 +220,7 @@
     </g>
     <g transform='translate(-0.5 -0.5)'>
       <text x='478' y='538' class='st3 st4'>
-        up:Q1G1A4
+        uniprot:Q1G1A4
       </text>
     </g>
     <g transform='translate(-0.5 -0.5)'>
@@ -417,7 +417,7 @@
       rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
     </text>
     <text x='60' y='1116' font-size='12px' class='st3'>
-      up: &lt;http://purl.uniprot.org/uniprot/&gt;
+      uniprot: &lt;http://purl.uniprot.org/uniprot/&gt;
     </text>
     <text x='60' y='1132' font-size='12px' class='st3'>
       ncbiprotein: &lt;https://www.ncbi.nlm.nih.gov/protein/&gt;

@@ -13,7 +13,7 @@
   - tpo:function:
     - function: "lanosterol synthase"
   - tpo:uniprot:
-    - uniprot: up:Q1G1A4
+    - uniprot: uniprot:Q1G1A4
   - tpo:ncbiprotein:
     - ncbiprotein:
   - tpo:pubmed:
